@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Karier</string>
+    <string name="is_show_password">Toggle Password Visibility</string>
+    <string name="label">%1$s</string>
+    <string name="required">Required</string>
+    <string name="navigate_back">Navigation Back</string>
+    <string name="title_activity_pilihan_minat">Pilihan Minat</string>
+</resources>
